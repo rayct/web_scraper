@@ -1,0 +1,9 @@
+# mac hidden files
+vscode
+.DS_Store
+
+# venv
+web_scapper_venv
+
+# directorys
+scrapped_data
