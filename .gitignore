@@ -3,7 +3,7 @@ vscode
 .DS_Store
 
 # venv
-web_scapper_venv
+web_scaper_venv
 
 # directorys
 scrapped_data
